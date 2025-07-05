@@ -1,3 +1,4 @@
 yoloapi/
 yoloapi
 .env
+__pycache__/
